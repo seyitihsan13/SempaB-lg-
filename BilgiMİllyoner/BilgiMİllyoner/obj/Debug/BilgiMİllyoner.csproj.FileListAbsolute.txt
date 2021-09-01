@@ -1,0 +1,14 @@
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\bin\Debug\BilgiMİllyoner.exe.config
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\bin\Debug\BilgiMİllyoner.exe
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\bin\Debug\BilgiMİllyoner.pdb
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\obj\Debug\BilgiMİllyoner.csproj.AssemblyReference.cache
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\obj\Debug\BilgiMİllyoner.Form1.resources
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\obj\Debug\BilgiMİllyoner.Form2.resources
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\obj\Debug\BilgiMİllyoner.Properties.Resources.resources
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\obj\Debug\BilgiMİllyoner.csproj.GenerateResource.cache
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\obj\Debug\BilgiMİllyoner.csproj.CoreCompileInputs.cache
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\obj\Debug\BilgiMİllyoner.exe
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\obj\Debug\BilgiMİllyoner.pdb
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\obj\Debug\BilgiMİllyoner.FrmGirisYap.resources
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\obj\Debug\BilgiMİllyoner.FrmKayıtOl.resources
+C:\Users\Stajyer\source\repos\BilgiMİllyoner\BilgiMİllyoner\obj\Debug\BilgiMİllyoner.SkorTablo.resources
